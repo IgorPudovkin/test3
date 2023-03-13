@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\test2\test_new\bin\Debug\net6.0\test_new.exe
+C:\Users\Пользователь\Desktop\test2\test_new\bin\Debug\net6.0\test_new.deps.json
+C:\Users\Пользователь\Desktop\test2\test_new\bin\Debug\net6.0\test_new.runtimeconfig.json
+C:\Users\Пользователь\Desktop\test2\test_new\bin\Debug\net6.0\test_new.dll
+C:\Users\Пользователь\Desktop\test2\test_new\bin\Debug\net6.0\test_new.pdb
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\test_new.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\test_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\test_new.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\test_new.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\test_new.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\test_new.dll
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\refint\test_new.dll
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\test_new.pdb
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\test_new.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\test2\test_new\obj\Debug\net6.0\ref\test_new.dll
